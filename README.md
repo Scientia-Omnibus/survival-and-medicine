@@ -2,8 +2,7 @@
 
 A structured, terminal-friendly survival knowledge base derived from the public domain **US Army Field Manual FM 3-05.70** (formerly FM 21-76).
 
-
-### Chapters
+## Chapters
 
 | # | Topic | Contents |
 |---|-------|----------|
@@ -41,18 +40,20 @@ A structured, terminal-friendly survival knowledge base derived from the public 
 
 ## Planned Improvements
 
-### Medicine (highest priority)
+### Medicine (Highest Priority)
 
 The medicine chapter currently covers basic first aid from a military-evasion perspective. Planned expansions:
 
-- **Herbal medicine preparation** — detailed recipes, dosages, and administration routes for natural remedies (tinctures, poultices, decoctions)
-- **Dental emergencies** — tooth abscess, broken teeth, pain management in the field
-- **Childbirth** — emergency delivery procedures
-- **Drowning & resuscitation** — extended protocols
-- **Lightning strikes** — injury patterns and treatment
-- **Snake venom progression** — timeline tables by species, when to cut/bind
-- **Improvised splints & traction** — detailed construction for femur, pelvis, spine
-- **Field amputations** — when and how (last-resort procedures)
-- **Nutritional deficiency diseases** — scurvy, beriberi, pellagra — symptoms and food-based cures
-- **Psychological first aid** — handling trauma, panic attacks, PTSD onset in survival
+| Area | Description |
+|------|-------------|
+| Herbal medicine preparation | Detailed recipes, dosages, and administration routes for natural remedies (tinctures, poultices, decoctions) |
+| Dental emergencies | Tooth abscess, broken teeth, pain management in the field |
+| Childbirth | Emergency delivery procedures |
+| Drowning & resuscitation | Extended protocols |
+| Lightning strikes | Injury patterns and treatment |
+| Snake venom progression | Timeline tables by species, when to cut/bind |
+| Improvised splints & traction | Detailed construction for femur, pelvis, spine |
+| Field amputations | When and how (last-resort procedures) |
+| Nutritional deficiency diseases | Scurvy, beriberi, pellagra — symptoms and food-based cures |
+| Psychological first aid | Handling trauma, panic attacks, PTSD onset in survival |
 
